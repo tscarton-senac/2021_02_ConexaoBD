@@ -17,7 +17,7 @@ import java.util.logging.Logger;
  */
 public class Conexao {
     
-    // CONEXAO COM MYSQL
+    // CONEXAO COM MYSQL LOCAL
     /*static { // Design Patterns -> Singleton
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
