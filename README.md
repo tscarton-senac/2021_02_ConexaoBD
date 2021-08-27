@@ -2,4 +2,4 @@
 
 Exemplo de Readme!
 
-Incluindo nova linha no readme! Nova linha do Dev A
+Incluindo nova linha no readme! Nova linha do Dev A  Linha com conflito!!
