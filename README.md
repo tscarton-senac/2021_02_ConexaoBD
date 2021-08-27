@@ -2,4 +2,4 @@
 
 Exemplo de Readme!
 
-Incluindo nova linha no readme!
+Incluindo nova linha no readme! Linha com conflito!!
